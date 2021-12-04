@@ -9,7 +9,7 @@
     background: linear-gradient(70deg, rgb(156, 70, 0), rgb(255, 203, 31));
     clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
     position: absolute;
-    top: 124px;
+    top: 131px;
     left: 844px;
 }
 .nachalo::before {
@@ -28,7 +28,7 @@
     height: 700px;
     background-color: rgb(0, 255, 255);
     box-shadow: inset 6px 6px 23px 5px rgba(0, 0, 0, 0.2);
-    border-radius: 4px 7px 0 0;
+    border-radius: 90px 100px 0 0;
     position: absolute;
     top: 269px;
     left: 844px;
@@ -38,7 +38,7 @@
     height: 700px;
     background-color: rgb(0, 255, 255);
     box-shadow: inset 6px 6px 23px 5px rgba(0, 0, 0, 0.2);
-    border-radius: 7px 7px 0 0;
+    border-radius: 100px 100px 0 0;
     position: absolute;
     top: 269px;
     left: 869px;
@@ -48,7 +48,7 @@
     height: 700px;
     background-color: rgb(0, 255, 255);
     box-shadow: inset 6px 6px 23px 5px rgba(0, 0, 0, 0.2);;
-    border-radius: 4px 7px 0 0;
+    border-radius: 100px 90px 0 0;
     position: absolute;
     top: 269px;
     left: 904px;
